@@ -1,8 +1,21 @@
-# React + Vite
+# ToDo App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Цей проект є простим додатком для управління завданнями, створеним за допомогою React та Formik.
 
-Currently, two official plugins are available:
+## Опис
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Додаток дозволяє користувачам додавати нові завдання до списку, переглядати існуючі завдання та видаляти їх. Він використовує Formik для обробки форм та валідації введених даних.
+
+## Використані технології
+
+- React
+- Formik
+- CSS Modules
+
+## Встановлення
+
+Для запуску цього проекту на вашому локальному комп'ютері виконайте наступні кроки:
+
+1. Клонуйте репозиторій:
+   ```bash
+   git clone https://github.com/AnthonyWwWw/Home_worck_28.git
